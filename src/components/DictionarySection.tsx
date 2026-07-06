@@ -107,18 +107,39 @@ export default function DictionarySection({ onNavigate, uiLang }: DictionarySect
                     <button
                       key={rIdx}
                       onClick={() => {
-                        // Quick jump John 1:14 or Ephesians 2:8 -> book jump
+                        const books = bibleService.getBooks();
                         const lowerRef = ref.toLowerCase();
-                        let bookId = 43; // Default John
-                        if (lowerRef.includes("ephesians")) bookId = 49;
-                        if (lowerRef.includes("romans")) bookId = 45;
-                        if (lowerRef.includes("genesis")) bookId = 1;
-                        if (lowerRef.includes("hebrews")) bookId = 58;
-                        if (lowerRef.includes("luke")) bookId = 42;
-                        if (lowerRef.includes("galatians")) bookId = 48;
-                        if (lowerRef.includes("peter")) bookId = 60;
-                        if (lowerRef.includes("matthew")) bookId = 40;
-                        onNavigate("bible", bookId, 1);
+                        
+                        // Try to find matching book name
+                        let matchedBook = books.find(b => {
+                          const enName = b.nameEn.toLowerCase();
+                          return lowerRef.includes(enName);
+                        });
+                        
+                        // Fallback for numbered books
+                        if (!matchedBook) {
+                          if (lowerRef.includes("peter")) {
+                            matchedBook = books.find(b => b.id === 60); // 1 Peter
+                          } else if (lowerRef.includes("john") && lowerRef.includes("1")) {
+                            matchedBook = books.find(b => b.id === 62); // 1 John
+                          } else if (lowerRef.includes("thessalonians")) {
+                            matchedBook = books.find(b => b.id === 52); // 1 Thess
+                          } else if (lowerRef.includes("corinthians")) {
+                            matchedBook = books.find(b => b.id === 46); // 1 Cor
+                          } else if (lowerRef.includes("timothy")) {
+                            matchedBook = books.find(b => b.id === 54); // 1 Tim
+                          }
+                        }
+
+                        // Parse chapter (e.g. "Ephesians 2:8" or "1 John 2:2" -> chapter 2)
+                        let chapter = 1;
+                        const match = ref.match(/\s(\d+):/);
+                        if (match && match[1]) {
+                          chapter = parseInt(match[1], 10);
+                        }
+
+                        const bookId = matchedBook ? matchedBook.id : 43;
+                        onNavigate("bible", bookId, chapter);
                       }}
                       className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-slate-50 hover:bg-gold-50 dark:bg-slate-800 dark:hover:bg-slate-750 text-[11px] font-semibold text-gold-600 dark:text-gold-400 transition-all shadow-sm"
                     >

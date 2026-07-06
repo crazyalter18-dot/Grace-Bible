@@ -497,6 +497,167 @@ const bibleDictionary: DictionaryEntry[] = [
     definitionEn: "The act of buying back or saving from sin, captivity, or evil by paying a price, completed by Jesus on the cross.",
     definitionMy: "သခင်ယေရှုသည် အသွေးတော်တည်းဟူသော အဖိုးအခကို ပေးဆပ်၍ လူသားတို့ကို အပြစ်နွံနှင့် ငရဲအောက်မှ ပြန်လည်ဝယ်ယူ ကယ်တင်တော်မူခြင်း။",
     references: ["Ephesians 1:7", "Galatians 3:13", "1 Peter 1:18"]
+  },
+  {
+    wordEn: "Salvation",
+    wordMy: "ကယ်တင်ခြင်း",
+    definitionEn: "Deliverance from sin and its consequences, brought about by the death and resurrection of Jesus Christ, received by faith.",
+    definitionMy: "အပြစ်တရားနှင့် ၎င်း၏နောက်ဆက်တွဲအကျိုးဆက်များမှ ကယ်လွှတ်ခြင်းဖြစ်ပြီး၊ သခင်ယေရှုခရစ်တော်၏ အသေခံခြင်းနှင့် ရှင်ပြန်ထမြောက်ခြင်းအားဖြင့် ဖြစ်ပေါ်လာကာ ယုံကြည်ခြင်းအားဖြင့် လက်ခံရရှိသည်။",
+    references: ["Ephesians 2:8", "Acts 4:12", "Romans 10:9"]
+  },
+  {
+    wordEn: "Sanctification",
+    wordMy: "သန့်ရှင်းစေခြင်း",
+    definitionEn: "The progressive process wherein the Holy Spirit makes a believer more like Jesus Christ in heart and conduct, separating them from sin.",
+    definitionMy: "ယုံကြည်သူတစ်ဦးသည် သန့်ရှင်းသောဝိညာဉ်တော်၏ လုပ်ဆောင်မှုအားဖြင့် သခင်ယေရှုနှင့် ပိုမိုတူညီလာကာ အပြစ်တရားမှ သီးခြားခွဲထွက်၍ ဝိညာဉ်ရေးရာ တိုးတက်ကြီးပွားလာသည့် ဖြစ်စဉ်။",
+    references: ["1 Thessalonians 4:3", "Hebrews 10:14", "John 17:17"]
+  },
+  {
+    wordEn: "Justification",
+    wordMy: "ဖြောင့်မတ်ရာသို့ ရောက်စေခြင်း",
+    definitionEn: "The legal act of God where He declares a believing sinner to be righteous and free from guilt based on the righteousness of Christ.",
+    definitionMy: "ယုံကြည်သော အပြစ်သားတစ်ဦးအား ခရစ်တော်၏ ဖြောင့်မတ်ခြင်းအပေါ် အခြေခံ၍ ဘုရားသခင်က အပြစ်ကင်းစင်ပြီး ဖြောင့်မတ်သူဟု တရားဝင်ကြေညာတော်မူသော အမှု။",
+    references: ["Romans 5:1", "Galatians 2:16", "Romans 8:30"]
+  },
+  {
+    wordEn: "Gospel",
+    wordMy: "ဧဝံဂေလိတရား",
+    definitionEn: "Literally meaning 'good news' - the proclamation of the salvation of humanity through the life, death, resurrection, and ascension of Jesus Christ.",
+    definitionMy: "စကားလုံးအဓိပ္ပာယ်အရ 'ကောင်းသောသတင်း' ဖြစ်ပြီး သခင်ယေရှုခရစ်တော်၏ အသက်တာ၊ အသေခံခြင်း၊ ရှင်ပြန်ထမြောက်ခြင်းနှင့် ကောင်းကင်သို့တက်ကြွခြင်းအားဖြင့် ရရှိသော လူသားကယ်တင်ခြင်းသတင်းတရား။",
+    references: ["Mark 1:15", "1 Corinthians 15:1-4", "Romans 1:16"]
+  },
+  {
+    wordEn: "Repentance",
+    wordMy: "နောင်တရခြင်း",
+    definitionEn: "A sincere change of mind, heart, and direction, turning away from sin and turning toward God in faith and obedience.",
+    definitionMy: "စိတ်သဘောထား၊ နှလုံးသားနှင့် လျှောက်လှမ်းရာလမ်းကို ရိုးသားစွာပြောင်းလဲပြီး၊ အပြစ်တရားမှ လွှဲရှောင်ကာ ယုံကြည်ခြင်း၊ နာခံခြင်းဖြင့် ဘုရားသခင်ထံသို့ လှည့်ပြန်လာခြင်း။",
+    references: ["Luke 13:3", "Acts 3:19", "2 Corinthians 7:10"]
+  },
+  {
+    wordEn: "Atonement",
+    wordMy: "အပြစ်ဖြေခြင်း",
+    definitionEn: "The reconciliation of God and humanity through the sacrificial death of Jesus Christ, satisfying divine justice and wiping away sin.",
+    definitionMy: "သခင်ယေရှုခရစ်တော်၏ အသွေးတော်သွန်းကာ အသေခံခြင်းအားဖြင့် ဘုရားသခင်၏တရားမျှတမှုကို ပြည့်စုံစေလျက် ဘုရားသခင်နှင့်လူသားတို့အကြား ပြန်လည်သင့်မြတ်စေပြီး အပြစ်ကိုဖြေရှင်းပေးသော အမှုတော်။",
+    references: ["Romans 5:11", "Hebrews 9:22", "1 John 2:2"]
+  },
+  {
+    wordEn: "Resurrection",
+    wordMy: "ရှင်ပြန်ထမြောက်ခြင်း",
+    definitionEn: "The act of rising from the dead to eternal life, exemplified by Jesus Christ on the third day and promised to all believers at the final day.",
+    definitionMy: "သေခြင်းမှ ထာဝရအသက်ရှင်ခြင်းသို့ ပြန်လည်ထမြောက်ခြင်းဖြစ်ပြီး၊ သုံးရက်မြောက်နေ့၌ သခင်ယေရှု ကိုယ်တိုင်ပြသခဲ့ကာ နောက်ဆုံးသောနေ့၌ ယုံကြည်သူအားလုံးအား ပေးထားသော ကတိတော်။",
+    references: ["1 Corinthians 15:20", "John 11:25", "Romans 6:4"]
+  },
+  {
+    wordEn: "Holy Spirit",
+    wordMy: "သန့်ရှင်းသောဝိညာဉ်တော်",
+    definitionEn: "The third person of the Trinity, who indwells, guides, comforts, and empowers believers, and convicts the world of sin.",
+    definitionMy: "သုံးပါးတစ်ဆူဘုရား၏ တတိယမြောက် ပုဂ္ဂိုလ်တော်ဖြစ်ပြီး၊ ယုံကြည်သူတို့၏ စိတ်နှလုံးထဲ၌ ကိန်းဝပ်လျက် လမ်းပြခြင်း၊ သက်သာစေခြင်း၊ ခွန်အားပေးခြင်းနှင့် လောကသားတို့အား အပြစ်ကို ဖော်ပြခြင်းတို့ကို ပြုလုပ်သောအရှင်။",
+    references: ["John 14:16", "Acts 1:8", "Ephesians 1:13"]
+  },
+  {
+    wordEn: "Trinity",
+    wordMy: "သုံးပါးတစ်ဆူ",
+    definitionEn: "The Christian doctrine that God exists as three co-equal, co-eternal, and consubstantial persons: Father, Son, and Holy Spirit.",
+    definitionMy: "ဘုရားသခင်သည် ခမည်းတော်၊ သားတော်၊ သန့်ရှင်းသောဝိညာဉ်တော်ဟူ၍ တန်ခိုး၊ ဘုန်းအာနုဘော်နှင့် ထာဝရတည်ရှိမှု တူညီသော ပုဂ္ဂိုလ်သုံးပါးဖြင့် တစ်ဆူတည်း တည်ရှိတော်မူသည်ဟူသော ခရစ်ယာန်အယူဝါဒ။",
+    references: ["Matthew 28:19", "2 Corinthians 13:14", "John 10:30"]
+  },
+  {
+    wordEn: "Messiah",
+    wordMy: "မေရှိယ",
+    definitionEn: "Meaning 'Anointed One,' the promised deliverer and savior of Israel and the world, fulfilled in Jesus Christ.",
+    definitionMy: "'ဘိသိက်ပေးခြင်းခံရသောသူ' ဟု အဓိပ္ပာယ်ရပြီး အစ္စရေးလူမျိုးနှင့် တစ်လောကလုံးကို ကယ်တင်ရန် ကတိတော်လာ ကယ်တင်ရှင်၊ သခင်ယေရှုခရစ်တော်အားဖြင့် ပြည့်စုံခဲ့သည်။",
+    references: ["John 4:25-26", "Matthew 16:16", "Daniel 9:25"]
+  },
+  {
+    wordEn: "Kingdom of God",
+    wordMy: "ဘုရားသခင်၏နိုင်ငံတော်",
+    definitionEn: "The spiritual reign and sovereign rule of God over the hearts of believers and the ultimate fulfillment of His redemptive purposes in the cosmos.",
+    definitionMy: "ယုံကြည်သူတို့၏ စိတ်နှလုံးသားပေါ်တွင် ဘုရားသခင်၏ အချုပ်အခြာအာဏာဖြင့် စိုးစံအုပ်ချုပ်ခြင်းနှင့် စကြာဝဠာတစ်ခုလုံးတွင် ဘုရားသခင်၏ ကယ်တင်ခြင်းအစီအစဉ် ပြီးပြည့်စုံခြင်း။",
+    references: ["Mark 1:15", "Luke 17:21", "Matthew 6:33"]
+  },
+  {
+    wordEn: "Mercy",
+    wordMy: "ကရုဏာတော်",
+    definitionEn: "God's compassionate withholding of the punishment that humanity justly deserves for their sins and transgressions.",
+    definitionMy: "လူသားတို့ပြုခဲ့သောအပြစ်များအတွက် ခံထိုက်သောအပြစ်ဒဏ်ကို ဘုရားသခင်က မေတ္တာစိတ်ဖြင့် ချန်လှပ်၍ အပြစ်ဒဏ်မှ ကင်းလွတ်စေတော်မူသော ကရုဏာစိတ်။",
+    references: ["Ephesians 2:4", "Titus 3:5", "Hebrews 4:16"]
+  },
+  {
+    wordEn: "Revelation",
+    wordMy: "ဗျာဒိတ်တော်",
+    definitionEn: "God's self-disclosure and communication of truth to humanity, which is recorded in the Holy Scriptures and fully embodied in Jesus Christ.",
+    definitionMy: "ဘုရားသခင်သည် မိမိကိုယ်တိုင်ကိုလည်းကောင်း၊ သမ္မာတရားကိုလည်းကောင်း လူသားတို့သိရှိရန် သမ္မာကျမ်းစာအားဖြင့်လည်းကောင်း၊ သခင်ယေရှုအားဖြင့်လည်းကောင်း ဖော်ပြတော်မူခြင်း။",
+    references: ["Revelation 1:1", "2 Timothy 3:16", "Hebrews 1:1-2"]
+  },
+  {
+    wordEn: "Glory",
+    wordMy: "ဘုန်းတော်",
+    definitionEn: "The absolute weight of God's majesty, beauty, holiness, and divine presence, manifested in His creation and salvation.",
+    definitionMy: "ဘုရားသခင်၏ ကြီးမြတ်ခြင်း၊ လှပခြင်း၊ သန့်ရှင်းခြင်းနှင့် ဘုရားသခင်ရှိတော်မူခြင်း၏ တောက်ပသောအသရေတော်ဖြစ်ပြီး၊ ဖန်ဆင်းခြင်းနှင့် ကယ်တင်ခြင်းတို့တွင် ထင်ရှားပေါ်လွင်သည်။",
+    references: ["Psalms 19:1", "Romans 3:23", "John 1:14"]
+  },
+  {
+    wordEn: "Reconciliation",
+    wordMy: "မိဿဟာယပြန်လည်ရရှိခြင်း / ရန်ငြိမ်းခြင်း",
+    definitionEn: "The restoration of a broken relationship between humanity and God, accomplished by the sacrifice of Jesus Christ on the cross.",
+    definitionMy: "ခရစ်တော်ယေရှု၏ လက်ဝါးကပ်တိုင်ပေါ်၌ အသေခံခြင်းအားဖြင့် လူသားတို့နှင့် ဘုရားသခင်အကြား ပျက်စီးသွားသော ပတ်သက်မှုကို ပြန်လည်သင့်မြတ်ကောင်းမွန်စေခြင်း။",
+    references: ["2 Corinthians 5:18-19", "Romans 5:10", "Colossians 1:20"]
+  },
+  {
+    wordEn: "Fellowship",
+    wordMy: "မိတ်သဟာယဖွဲ့ခြင်း",
+    definitionEn: "The deep communion, spiritual sharing, and mutual support experienced among believers who are united in Jesus Christ.",
+    definitionMy: "သခင်ယေရှုခရစ်တော်၌ တစ်လုံးတစ်ဝတည်းရှိသော ယုံကြည်သူအချင်းချင်းအကြား နက်ရှိုင်းသော ဝိညာဉ်ရေးရာ ဆက်သွယ်မှုနှင့် အပြန်အလှန်ကူညီဖေးမမှု။",
+    references: ["1 John 1:3", "Acts 2:42", "Hebrews 10:24-25"]
+  },
+  {
+    wordEn: "Worship",
+    wordMy: "ကိုးကွယ်ခြင်း",
+    definitionEn: "Expressing reverence, adoration, and honor to God for who He is and what He has done, in spirit and in truth.",
+    definitionMy: "ဘုရားသခင်၏ ကြီးမြတ်မှုနှင့် ပြုတော်မူသောအမှုများအတွက် ဝိညာဉ်တော်နှင့်လည်းကောင်း၊ သစ္စာတရားနှင့်လည်းကောင်း ရိုသေလေးမြတ်စွာ ချီးမွမ်းကိုးကွယ်ခြင်း။",
+    references: ["John 4:24", "Psalms 95:6", "Romans 12:1"]
+  },
+  {
+    wordEn: "Apostle",
+    wordMy: "တမန်တော်",
+    definitionEn: "Meaning 'one who is sent out' - a messenger chosen by Jesus Christ to preach the Gospel and establish the early Church.",
+    definitionMy: "'စေလွှတ်ခြင်းခံရသောသူ' ဟု အဓိပ္ပာယ်ရပြီး၊ သခင်ယေရှုက ဧဝံဂေလိတရားဟောပြောရန်နှင့် အစောပိုင်းအသင်းတော်ကို တည်ထောင်ရန် အထူးရွေးချယ်ထားသော တပည့်တော်များ။",
+    references: ["Luke 6:13", "Matthew 28:19", "Acts 1:8"]
+  },
+  {
+    wordEn: "Prophet",
+    wordMy: "ပရောဖက်",
+    definitionEn: "A messenger of God called to declare His truth, words, and warnings to His people, sometimes foretelling future events by divine inspiration.",
+    definitionMy: "ဘုရားသခင်၏ စကားတော်၊ သမ္မာတရားနှင့် သတိပေးချက်များကို လူတို့အား ပြောကြားရန် ဘုရားသခင်ခေါ်ယူထားသောသူဖြစ်ပြီး၊ တစ်ခါတစ်ရံ ကောင်းကင်လှုံ့ဆော်မှုဖြင့် နောင်ဖြစ်မည့်အရာများကို ဟောပြောလေ့ရှိသည်။",
+    references: ["Hebrews 1:1", "Deuteronomy 18:18", "2 Peter 1:21"]
+  },
+  {
+    wordEn: "Baptism",
+    wordMy: "ဗတ္တိဇံ မင်္ဂလာ",
+    definitionEn: "A Christian rite of initiation using water, symbolizing purification, spiritual rebirth, and public identification with Christ's death, burial, and resurrection.",
+    definitionMy: "ရေကိုအသုံးပြု၍ ပြုလုပ်သော ခရစ်ယာန်ဘာသာရေးစနစ်ဖြစ်ပြီး၊ သန့်ရှင်းစင်ကြယ်ခြင်း၊ ဝိညာဉ်ရေးရာ အသစ်မွေးဖွားခြင်းနှင့် ခရစ်တော်၏အသေခံခြင်း၊ သင်္ဂြိုဟ်ခြင်း၊ ရှင်ပြန်ထမြောက်ခြင်းတို့နှင့် ပူးပေါင်းခြင်းကို ပုံဆောင်သည်။",
+    references: ["Matthew 28:19", "Romans 6:3-4", "Galatians 3:27"]
+  },
+  {
+    wordEn: "Disciple",
+    wordMy: "တပည့်တော်",
+    definitionEn: "A dedicated follower and learner who seeks to emulate and obey the teachings of Jesus Christ, making disciples of others.",
+    definitionMy: "သခင်ယေရှုခရစ်တော်၏ သွန်သင်ချက်များကို လေ့လာမှတ်သားလျက် စံနမူနာယူ နာခံသော တပည့်ဖြစ်ပြီး၊ အခြားသူများကိုလည်း တပည့်တော်ဖြစ်စေရန် သွားရောက်လုပ်ဆောင်သောသူ။",
+    references: ["Matthew 28:19", "John 8:31", "Luke 14:27"]
+  },
+  {
+    wordEn: "Sanctuary",
+    wordMy: "သန့်ရှင်းရာဌာန",
+    definitionEn: "A sacred place set apart for the worship of God, representing His presence among His people, fully realized as the believer's body being the temple of the Holy Spirit.",
+    definitionMy: "ဘုရားသခင်ကို ကိုးကွယ်ရန်အတွက် သီးသန့်ခွဲထားသော သန့်ရှင်းရာဌာနဖြစ်ပြီး၊ ကိုယ်တော်ရှိတော်မူခြင်းကို ဖော်ညွှန်းသည်။ ဓမ္မသစ်၌ ယုံကြည်သူ၏ ကိုယ်ခန္ဓာသည် သန့်ရှင်းသော ဝိညာဉ်တော် ကိန်းဝပ်ရာဗိမာန်တော် ဖြစ်သည်။",
+    references: ["Exodus 25:8", "1 Corinthians 6:19", "Hebrews 9:11"]
+  },
+  {
+    wordEn: "Sin",
+    wordMy: "အပြစ်တရား",
+    definitionEn: "Any lack of conformity to, or transgression of, the law of God, creating separation between God and humanity.",
+    definitionMy: "ဘုရားသခင်၏ ပညတ်တရားတော်ကို ဖောက်ဖျက်ကျူးလွန်ခြင်း သို့မဟုတ် စံနှုန်းတော်ကို မမှီခြင်းဖြစ်ပြီး၊ ဘုရားသခင်နှင့် လူသားတို့အကြား ကွဲကွာခြင်းကို ဖြစ်ပေါ်စေသည်။",
+    references: ["Romans 3:23", "1 John 3:4", "Romans 6:23"]
   }
 ];
 
